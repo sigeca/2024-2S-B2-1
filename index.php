@@ -220,7 +220,7 @@
             <h2>Ingenieria de Software II 6-A</h2>
             <div class="card-grid">
                 <div class="card">
-                    <img src="https://via.placeholder.com/100/E91E63/FFFFFF?Text=Persona+9" alt="Persona 9">
+                    <img src="https://repositorioutlvte.org/Repositorio/fotos/0106972722.jpg" alt="Persona 9">
                     <h3>Nombre 9</h3>
                     <div class="links">
                         <a href="#">Web Uno</a>
@@ -229,7 +229,7 @@
                     </div>
                 </div>
                 <div class="card">
-                    <img src="https://via.placeholder.com/100/8BC34A/FFFFFF?Text=Persona+10" alt="Persona 10">
+                    <img src="https://repositorioutlvte.org/Repositorio/fotos/0850099292.jpg" alt="Persona 10">
                     <h3>Nombre 10</h3>
                     <div class="links">
                         <a href="#">Link X</a>
@@ -238,7 +238,7 @@
                     </div>
                 </div>
                 <div class="card">
-                    <img src="https://via.placeholder.com/100/03A9F4/FFFFFF?Text=Persona+11" alt="Persona 11">
+                    <img src="https://repositorioutlvte.org/Repositorio/fotos/1718999079.jpg" alt="Persona 11">
                     <h3>Nombre 11</h3>
                     <div class="links">
                         <a href="#">Página 1</a>
@@ -255,6 +255,16 @@
                         <a href="#">Sitio #3</a>
                     </div>
                 </div>
+<div class="card">
+                    <img src="https://via.placeholder.com/100/CDDC39/FFFFFF?Text=Persona+12" alt="Persona 12">
+                    <h3>Nombre 12</h3>
+                    <div class="links">
+                        <a href="#">Sitio #1</a>
+                        <a href="#">Sitio #2</a>
+                        <a href="#">Sitio #3</a>
+                    </div>
+                </div>
+
             </div>
         </div>
 
