@@ -60,7 +60,7 @@
                     <div class="links">
                         <a href="https://github.com/Jhons23/apple5a.git" target="_blank">Cuenta Github</a>
                         <a href="https://educaysoft.org/apple5a/public/" target="_blank">Despliegue</a>
-                        <a href="https://127.0.0.1/2024-2S-B2-1/git_pull.php" target="_blank">git pull</a>
+                        <a href="https://educaysoft.org/2024-2S-B2-1/git_pull.php" target="_blank">git pull</a>
                     </div>
                 </div>
                 <div class="card">
