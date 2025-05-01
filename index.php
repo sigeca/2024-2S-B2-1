@@ -96,6 +96,26 @@
                         <a href="https://www.final3.com" target="_blank">Web Final 3</a>
                     </div>
                 </div>
+<div class="card">
+                    <img src="https://via.placeholder.com/100/F44336/FFFFFF?Text=Persona+4" alt="Persona 4">
+                    <h3>Nombre 4</h3>
+                    <div class="links">
+                        <a href="https://www.final1.com" target="_blank">Web Final 1</a>
+                        <a href="https://www.final2.com" target="_blank">Web Final 2</a>
+                        <a href="https://www.final3.com" target="_blank">Web Final 3</a>
+                    </div>
+                </div>
+
+<div class="card">
+                    <img src="https://via.placeholder.com/100/F44336/FFFFFF?Text=Persona+4" alt="Persona 4">
+                    <h3>Nombre 4</h3>
+                    <div class="links">
+                        <a href="https://www.final1.com" target="_blank">Web Final 1</a>
+                        <a href="https://www.final2.com" target="_blank">Web Final 2</a>
+                        <a href="https://www.final3.com" target="_blank">Web Final 3</a>
+                    </div>
+                </div>
+
             </div>
         </div>
 
