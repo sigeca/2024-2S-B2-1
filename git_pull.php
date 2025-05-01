@@ -2,8 +2,8 @@
 if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['action']) && $_POST['action'] === 'git_pull') {
     $output = [];
     $return_var = -1;
-    $directory = '/var/www/html/apple5a/';
-    $directory = '/var/www/html/'.$POST['directorio'];
+//    $directory = '/var/www/html/apple5a/';
+    $directory = '/var/www/html/'.$_POST['directorio'].'/';
     $command = 'git pull';
 
     // Cambiar al directorio antes de ejecutar el comando
