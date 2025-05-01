@@ -182,7 +182,8 @@
                     </div>
                 </div>
                 <div class="card">
-                    <img src="https://via.placeholder.com/100/607D8B/FFFFFF?Text=Persona+7" alt="Persona 7">
+                    <h3>Grupo Facebook</h3>
+                    <img src="https://repositorioutlvte.org/Repositorio/fotos/0850991472.jpg" alt="Persona 7">
                     <h3>Nombre 7</h3>
                     <div class="links">
                         <a href="#">Sitio Alpha</a>
@@ -191,7 +192,8 @@
                     </div>
                 </div>
                 <div class="card">
-                    <img src="https://via.placeholder.com/100/FF9800/FFFFFF?Text=Persona+8" alt="Persona 8">
+                    <h3>Grupo Apple</h3>
+                    <img src="https://repositorioutlvte.org/Repositorio/fotos/0958401887.jpg" alt="Persona 8">
                     <h3>Nombre 8</h3>
                     <div class="links">
                         <a href="#">First Site</a>
@@ -199,6 +201,18 @@
                         <a href="#">Third Site</a>
                     </div>
                 </div>
+
+<div class="card">
+                    <h3>Grupo Whatsapp</h3>
+                    <img src="https://repositorioutlvte.org/Repositorio/fotos/0850361239.jpg " alt="Persona 8">
+                    <h3>Nombre 8</h3>
+                    <div class="links">
+                        <a href="#">First Site</a>
+                        <a href="#">Second Site</a>
+                        <a href="#">Third Site</a>
+                    </div>
+                </div>
+
             </div>
         </div>
 
