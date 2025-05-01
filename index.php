@@ -250,47 +250,47 @@ Cada miembro del grupo contribuirá al repositorio creando los archivos (modelo,
             <h2>Ingenieria de Software II 6-A</h2>
             <div class="card-grid">
                 <div class="card">
-                    <h3>Grupo Whatsapp</h3>
+                    <h3>Grupo Microsoft</h3>
                     <img src="https://repositorioutlvte.org/Repositorio/fotos/0106972722.jpg" alt="Persona 9">
                     <h3>Nombre 9</h3>
                     <h3>Scrum Master</h3>
                     <div class="links">
-                        <a href="#">Web Uno</a>
-                        <a href="#">Web Dos</a>
+                        <a href="https://github.com/Morales57/microsoft6a">Cuenta Github</a>
+                        <a href="htpps://educaysoft.org/microsoft6a">Descpliegue</a>
                         <a href="https://educaysoft.org/2024-2S-B2-1/git_pull.php?dir=whatsapp5b" target="_blank">git pull</a>
                     </div>
                 </div>
                 <div class="card">
-                    <h3>Grupo Whatsapp</h3>
+                    <h3>Grupo Apple</h3>
                     <img src="https://repositorioutlvte.org/Repositorio/fotos/0850099292.jpg" alt="Persona 10">
                     <h3> Arévalo Bernal Juan Diego.</h3>
                     <h3>Scrum Master</h3>
                     <div class="links">
-                        <a href="#">Link X</a>
-                        <a href="#">Link Y</a>
-                        <a href="https://educaysoft.org/2024-2S-B2-1/git_pull.php?dir=whatsapp5b" target="_blank">git pull</a>
+                        <a href="https://github.com/JuanSlaterT/apple6a">Cuenta Github</a>
+                        <a href="https://educaysoft.org/apple6a">Link Y</a>
+                        <a href="https://educaysoft.org/2024-2S-B2-1/git_pull.php?dir=apple6b" target="_blank">git pull</a>
                     </div>
                 </div>
                 <div class="card">
-                    <h3>Grupo Whatsapp</h3>
+                    <h3>Grupo facebook</h3>
                     <img src="https://repositorioutlvte.org/Repositorio/fotos/1718999079.jpg" alt="Persona 11">
-                    <h3>Nombre 11</h3>
+                    <h3>Peña Vargas Honorio Edgar.</h3>
                     <h3>Scrum Master</h3>
                     <div class="links">
-                        <a href="#">Página 1</a>
-                        <a href="#">Página 2</a>
-                        <a href="https://educaysoft.org/2024-2S-B2-1/git_pull.php?dir=whatsapp5b" target="_blank">git pull</a>
+                        <a href="https://github.com/CONINTELSA/facebook6a">Cuenta Github</a>
+                        <a href="https://educaysoft.org/facebook6a">Despliegue</a>
+                        <a href="https://educaysoft.org/2024-2S-B2-1/git_pull.php?dir=facebook6a" target="_blank">git pull</a>
                     </div>
                 </div>
                 <div class="card">
-                    <h3>Grupo Whatsapp</h3>
+                    <h3>Grupo IBM</h3>
                     <img src="https://repositorioutlvte.org/Repositorio/fotos/0803012145.jpg" alt="Persona 12">
-                    <h3>Nombre 12</h3>
+                    <h3>Tenorio Espinoza Anthony josue</h3>
                     <h3>Scrum Master</h3>
                     <div class="links">
-                        <a href="#">Sitio #1</a>
-                        <a href="#">Sitio #2</a>
-                        <a href="#">Sitio #3</a>
+                        <a href="https://github.com/Anthony2002spd/Ibm6aphp">Cuenta Github</a>
+                        <a href="https://educaysoft.org/ibm6aphp">Despliegue</a>
+                        <a href="https://educaysoft.org/2024-2S-B2-1/git_pull.php?dir=ibm6aphp" target="_blank">git pull</a>
                     </div>
                 </div>
 <div class="card">
@@ -300,9 +300,8 @@ Cada miembro del grupo contribuirá al repositorio creando los archivos (modelo,
                     <h3>Scrum Master</h3>
                     <div class="links">
                         <a href="https://github.com/OrejuelaJeohassin/whatsapp6a">Cuenta Github</a>
-                        <a href="#">Sitio #2</a>
-                        <a href="#">Sitio #3</a>
-                        <a href="https://educaysoft.org/2024-2S-B2-1/git_pull.php?dir=whatsapp5b" target="_blank">git pull</a>
+                        <a href="https://educaysoft.org/whatsapp6a">Despliegue</a>
+                        <a href="https://educaysoft.org/2024-2S-B2-1/git_pull.php?dir=whatsapp6a" target="_blank">git pull</a>
                     </div>
                 </div>
 
