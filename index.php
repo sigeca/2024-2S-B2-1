@@ -120,8 +120,10 @@
                     </div>
                 </div>
                 <div class="card">
-                    <img src="https://via.placeholder.com/100/F44336/FFFFFF?Text=Persona+4" alt="Persona 4">
-                    <h3>Nombre 4</h3>
+                    <h3> Grupo facebook</h3>
+                    <img src="https://repositorioutlvte.org/Repositorio/fotos/0803594043.jpg" alt="Persona 4">
+                    <h3>Masapanta Delgado Steven Javier.</h3>
+                    <h3> Scrum master</h3>
                     <div class="links">
                         <a href="https://www.final1.com" target="_blank">Web Final 1</a>
                         <a href="https://www.final2.com" target="_blank">Web Final 2</a>
@@ -129,8 +131,10 @@
                     </div>
                 </div>
                 <div class="card">
-                    <img src="https://via.placeholder.com/100/F44336/FFFFFF?Text=Persona+4" alt="Persona 4">
-                    <h3>Nombre 4</h3>
+                    <h3> Grupo IBM</h3>
+                    <img src="https://repositorioutlvte.org/Repositorio/fotos/1315590883.jpg" alt="Persona 4">
+                    <h3>Lopez Pico Paul Alexander</h3>
+                    <h3> Scrum master</h3>
                     <div class="links">
                         <a href="https://www.final1.com" target="_blank">Web Final 1</a>
                         <a href="https://www.final2.com" target="_blank">Web Final 2</a>
@@ -139,8 +143,10 @@
                 </div>
 
                 <div class="card">
-                    <img src="https://via.placeholder.com/100/F44336/FFFFFF?Text=Persona+4" alt="Persona 4">
-                    <h3>Nombre 4</h3>
+                    <h3> Grupo Whatsapp</h3>
+                    <img src="https://repositorioutlvte.org/Repositorio/fotos/0805124336.jpg" alt="Persona 4">
+                    <h3> Villota Bustos Juan Sebastian. </h3>
+                    <h3> Scrum master</h3>
                     <div class="links">
                         <a href="https://www.final1.com" target="_blank">Web Final 1</a>
                         <a href="https://www.final2.com" target="_blank">Web Final 2</a>
