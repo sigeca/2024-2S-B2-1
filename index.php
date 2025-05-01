@@ -238,7 +238,7 @@
                     </div>
                 </div>
                 <div class="card">
-                    <img src="https://repositorioutlvte.org/Repositorio/fotos/1718999079.jpg" alt="Persona 11">
+                    <img src="https://via.placeholder.com/100/03A9F4/FFFFFF?Text=Persona+11" alt="Persona 11">
                     <h3>Nombre 11</h3>
                     <div class="links">
                         <a href="#">Página 1</a>
@@ -247,7 +247,7 @@
                     </div>
                 </div>
                 <div class="card">
-                    <img src="https://via.placeholder.com/100/CDDC39/FFFFFF?Text=Persona+12" alt="Persona 12">
+                    <img src="https://repositorioutlvte.org/Repositorio/fotos/0803012145.jpg" alt="Persona 12">
                     <h3>Nombre 12</h3>
                     <div class="links">
                         <a href="#">Sitio #1</a>
@@ -256,7 +256,7 @@
                     </div>
                 </div>
 <div class="card">
-                    <img src="https://via.placeholder.com/100/CDDC39/FFFFFF?Text=Persona+12" alt="Persona 12">
+                    <img src="https://repositorioutlvte.org/Repositorio/fotos/0850013418.jpg" alt="Persona 12">
                     <h3>Nombre 12</h3>
                     <div class="links">
                         <a href="#">Sitio #1</a>
