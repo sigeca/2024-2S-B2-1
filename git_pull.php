@@ -3,6 +3,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['action']) && $_POST['
     $output = [];
     $return_var = -1;
     $directory = '/var/www/html/apple5a/';
+    $directory = '/var/www/html/'.$POST['directorio'];
     $command = 'git pull';
 
     // Cambiar al directorio antes de ejecutar el comando
@@ -21,7 +22,16 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['action']) && $_POST['
     echo "<p>Código de retorno: " . htmlspecialchars($return_var) . "</p>";
 } else {
     // Mostrar un formulario simple para activar el git pull
+    //
+
+ if (isset($_GET['dir'])) {
+    $valorRecibido = $_GET['dir'];
+  } else {
+    $valorRecibido = ''; // Valor por defecto si no se recibe nada
+  }
+
     echo '<form method="post">';
+    echo '<input type="text" name="direcotrio" value="'. htmlspecialchars($valorRecibido).'">';
     echo '<input type="hidden" name="action" value="git_pull">';
     echo '<button type="submit">Ejecutar Git Pull</button>';
     echo '</form>';
