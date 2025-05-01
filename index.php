@@ -79,9 +79,35 @@
 <body>
     <div class="container">
         <h1 style="text-align: center;">Actividad B2-1</h1>
+<textarea rows="4" cols="50" style="width: 80%; margin: 10px auto; display: block; padding: 10px; border: 1px solid #ccc; box-sizing: border-box;">
+Cada miembro del grupo contribuirá al repositorio creando los archivos (modelo, vista, controlador) correspondientes a una tabla específica, asegurando así la distribución equitativa del trabajo entre los integrantes. El objetivo es que la estructura final del repositorio coincida con el repositorio modelo proporcionado.
+
+</textarea>
         <div class="video-container">
             <iframe width="560" height="315" src="https://www.youtube.com/embed/7_Yq5ngWyM8?si=70iWvaQ60Id6ASvY" frameborder="0" allowfullscreen></iframe>
         </div>
+
+
+<div class="section">
+            <h2>Repositorio modelo</h2>
+            <div class="card-grid">
+                <div class="card"  style="background-color: #e0f2f7;"  >
+                    <h3> Grupo Apple</h3>
+                    <img src="https://repositorioutlvte.org/Repositorio/fotos/0850219106.jpg" alt=" Quinde Bustos Johan Kenneth">
+                    <h3> Quinde Bustos Johan Kenneth</h3>
+                    <h3> Scrum master</h3>
+                    <div class="links">
+                        <a href="https://github.com/Jhons23/apple5a.git" target="_blank">Cuenta Github</a>
+                        <a href="https://educaysoft.org/apple5a/public/" target="_blank">Despliegue</a>
+                        <a href="https://educaysoft.org/2024-2S-B2-1/git_pull.php?dir=apple5a" target="_blank">git pull</a>
+                    </div>
+                </div>
+                
+
+            </div>
+        </div>
+
+
 
         <div class="section">
             <h2>5-A 1</h2>
