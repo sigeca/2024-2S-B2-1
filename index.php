@@ -201,6 +201,7 @@ Cada miembro del grupo contribuirá al repositorio creando los archivos (modelo,
                     <h3>Grupo Microsoft</h3>
                     <img src="https://repositorioutlvte.org/Repositorio/fotos/0850889916.jpg " alt="Persona 6">
                     <h3> Bastidas Miranda Eddy Alexis </h3>
+                    <h3>Scrum Master</h3>
                     <div class="links">
                         <a href="#">Link A</a>
                         <a href="#">Link B</a>
@@ -210,20 +211,22 @@ Cada miembro del grupo contribuirá al repositorio creando los archivos (modelo,
                 <div class="card">
                     <h3>Grupo Facebook</h3>
                     <img src="https://repositorioutlvte.org/Repositorio/fotos/0850991472.jpg" alt="Persona 7">
-                    <h3>Nombre 7</h3>
+                    <h3> Bustos Micolta Aldo Emmanuel</h3>
+                    <h3>Scrum Master</h3>
                     <div class="links">
-                        <a href="#">Sitio Alpha</a>
-                        <a href="#">Sitio Beta</a>
+                        <a href="https://github.com/EMANUELBUSTOS/facebook5b.git">Cuenta Github</a>
+                        <a href="https://educaysoft.org/facebook5b">Despliegue</a>
                         <a href="https://educaysoft.org/2024-2S-B2-1/git_pull.php?dir=facebook5b" target="_blank">git pull</a>
                     </div>
                 </div>
                 <div class="card">
                     <h3>Grupo Apple</h3>
                     <img src="https://repositorioutlvte.org/Repositorio/fotos/0958401887.jpg" alt="Persona 8">
-                    <h3>Nombre 8</h3>
+                    <h3>Coronado Sánchez Jacob Israel</h3>
+                    <h3>Scrum Master</h3>
                     <div class="links">
-                        <a href="#">First Site</a>
-                        <a href="#">Second Site</a>
+                        <a href=": https://github.com/sanchezjacob123/Apple5b.git">Cuenta Github</a>
+                        <a href="https://educaysoft.org/Apple5b">Despliegue</a>
                         <a href="https://educaysoft.org/2024-2S-B2-1/git_pull.php?dir=apple5b" target="_blank">git pull</a>
                     </div>
                 </div>
@@ -231,10 +234,11 @@ Cada miembro del grupo contribuirá al repositorio creando los archivos (modelo,
 <div class="card">
                     <h3>Grupo Whatsapp</h3>
                     <img src="https://repositorioutlvte.org/Repositorio/fotos/0850361239.jpg " alt="Persona 8">
-                    <h3>Nombre 8</h3>
+                    <h3>Marquez Plaza Michael</h3>
+                    <h3>Scrum Master</h3>
                     <div class="links">
-                        <a href="#">First Site</a>
-                        <a href="#">Second Site</a>
+                        <a href="https://github.com/Marquez-PMG/WhatsApp-5B.git">Cuenta Github</a>
+                        <a href="https://educaysoft.org/WhatsApp-5B">Despliegue </a>
                         <a href="https://educaysoft.org/2024-2S-B2-1/git_pull.php?dir=whatsapp5b" target="_blank">git pull</a>
                     </div>
                 </div>
@@ -249,6 +253,7 @@ Cada miembro del grupo contribuirá al repositorio creando los archivos (modelo,
                     <h3>Grupo Whatsapp</h3>
                     <img src="https://repositorioutlvte.org/Repositorio/fotos/0106972722.jpg" alt="Persona 9">
                     <h3>Nombre 9</h3>
+                    <h3>Scrum Master</h3>
                     <div class="links">
                         <a href="#">Web Uno</a>
                         <a href="#">Web Dos</a>
@@ -258,7 +263,8 @@ Cada miembro del grupo contribuirá al repositorio creando los archivos (modelo,
                 <div class="card">
                     <h3>Grupo Whatsapp</h3>
                     <img src="https://repositorioutlvte.org/Repositorio/fotos/0850099292.jpg" alt="Persona 10">
-                    <h3>Nombre 10</h3>
+                    <h3> Arévalo Bernal Juan Diego.</h3>
+                    <h3>Scrum Master</h3>
                     <div class="links">
                         <a href="#">Link X</a>
                         <a href="#">Link Y</a>
@@ -269,6 +275,7 @@ Cada miembro del grupo contribuirá al repositorio creando los archivos (modelo,
                     <h3>Grupo Whatsapp</h3>
                     <img src="https://repositorioutlvte.org/Repositorio/fotos/1718999079.jpg" alt="Persona 11">
                     <h3>Nombre 11</h3>
+                    <h3>Scrum Master</h3>
                     <div class="links">
                         <a href="#">Página 1</a>
                         <a href="#">Página 2</a>
@@ -279,6 +286,7 @@ Cada miembro del grupo contribuirá al repositorio creando los archivos (modelo,
                     <h3>Grupo Whatsapp</h3>
                     <img src="https://repositorioutlvte.org/Repositorio/fotos/0803012145.jpg" alt="Persona 12">
                     <h3>Nombre 12</h3>
+                    <h3>Scrum Master</h3>
                     <div class="links">
                         <a href="#">Sitio #1</a>
                         <a href="#">Sitio #2</a>
@@ -288,9 +296,10 @@ Cada miembro del grupo contribuirá al repositorio creando los archivos (modelo,
 <div class="card">
                     <h3>Grupo Whatsapp</h3>
                     <img src="https://repositorioutlvte.org/Repositorio/fotos/0850013418.jpg" alt="Persona 12">
-                    <h3>Nombre 12</h3>
+                    <h3>Orejuela Garcia Jeohassin Wilton.</h3>
+                    <h3>Scrum Master</h3>
                     <div class="links">
-                        <a href="#">Sitio #1</a>
+                        <a href="https://github.com/OrejuelaJeohassin/whatsapp6a">Cuenta Github</a>
                         <a href="#">Sitio #2</a>
                         <a href="#">Sitio #3</a>
                         <a href="https://educaysoft.org/2024-2S-B2-1/git_pull.php?dir=whatsapp5b" target="_blank">git pull</a>
