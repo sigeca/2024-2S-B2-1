@@ -6,6 +6,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['action']) && $_POST['
     $directory = '/var/www/html/'.$_POST['directorio'].'/';
     $command = 'git pull';
 
+    echo $directory; 
     // Cambiar al directorio antes de ejecutar el comando
     chdir($directory);
 
