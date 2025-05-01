@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Información de Personas</title>
+    <title>B2-1</title>
     <style>
         body { font-family: Arial, sans-serif; margin: 20px; background-color: #f4f4f4; }
         .container { max-width: 1200px; margin: auto; padding: 20px; }
@@ -74,11 +74,13 @@
         }
     </style>
 </head>
+
+
 <body>
     <div class="container">
-        <h1 style="text-align: center;">Información de Interés</h1>
+        <h1 style="text-align: center;">Actividad B2-1</h1>
         <div class="video-container">
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/q1F3BNrOnIA?si=MDERNL49pgCn_Nrr" frameborder="0" allowfullscreen></iframe>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/7_Yq5ngWyM8?si=70iWvaQ60Id6ASvY" frameborder="0" allowfullscreen></iframe>
         </div>
 
         <div class="section">
@@ -150,13 +152,15 @@
         </div>
 
         <div class="section">
-            <h2>Sección 2</h2>
+            <h2>Ingenieria de Software I 5-B</h2>
             <div class="card-grid">
                 <div class="card">
-                    <img src="https://via.placeholder.com/100/9C27B0/FFFFFF?Text=Persona+5" alt="Persona 5">
-                    <h3>Nombre 5</h3>
+                    <h3>Grupo IBM</h3>
+                    <img src="https://repositorioutlvte.org/Repositorio/fotos/0850447459.jpg" alt="Persona 5">
+                    <h3>Tenesaca Telpes Luis Felipe</h3>
+                    <h3>Scrum Master</h3>
                     <div class="links">
-                        <a href="#">Enlace 1</a>
+                        <a href="https://github.com/Tenesaca/ibm5b">Github</a>
                         <a href="#">Enlace 2</a>
                         <a href="#">Enlace 3</a>
                     </div>
@@ -192,7 +196,7 @@
         </div>
 
         <div class="section">
-            <h2>Sección 3</h2>
+            <h2>Ingenieria de Software II 6-A</h2>
             <div class="card-grid">
                 <div class="card">
                     <img src="https://via.placeholder.com/100/E91E63/FFFFFF?Text=Persona+9" alt="Persona 9">
@@ -234,7 +238,7 @@
         </div>
 
         <div class="section">
-            <h2>Sección 4</h2>
+            <h2>Ingenieria de Software II 6-B</h2>
             <div class="card-grid">
                 <div class="card">
                     <img src="https://via.placeholder.com/100/FF5722/FFFFFF?Text=Persona+13" alt="Persona 13">
