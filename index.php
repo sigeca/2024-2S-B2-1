@@ -188,7 +188,7 @@
                     <div class="links">
                         <a href="#">Sitio Alpha</a>
                         <a href="#">Sitio Beta</a>
-                        <a href="#">Sitio Gamma</a>
+                        <a href="https://educaysoft.org/2024-2S-B2-1/git_pull.php?dir=facebook5b" target="_blank">git pull</a>
                     </div>
                 </div>
                 <div class="card">
@@ -198,7 +198,7 @@
                     <div class="links">
                         <a href="#">First Site</a>
                         <a href="#">Second Site</a>
-                        <a href="#">Third Site</a>
+                        <a href="https://educaysoft.org/2024-2S-B2-1/git_pull.php?dir=apple5b" target="_blank">git pull</a>
                     </div>
                 </div>
 
@@ -209,7 +209,7 @@
                     <div class="links">
                         <a href="#">First Site</a>
                         <a href="#">Second Site</a>
-                        <a href="#">Third Site</a>
+                        <a href="https://educaysoft.org/2024-2S-B2-1/git_pull.php?dir=whatsapp5b" target="_blank">git pull</a>
                     </div>
                 </div>
 
@@ -220,33 +220,37 @@
             <h2>Ingenieria de Software II 6-A</h2>
             <div class="card-grid">
                 <div class="card">
+                    <h3>Grupo Whatsapp</h3>
                     <img src="https://repositorioutlvte.org/Repositorio/fotos/0106972722.jpg" alt="Persona 9">
                     <h3>Nombre 9</h3>
                     <div class="links">
                         <a href="#">Web Uno</a>
                         <a href="#">Web Dos</a>
-                        <a href="#">Web Tres</a>
+                        <a href="https://educaysoft.org/2024-2S-B2-1/git_pull.php?dir=whatsapp5b" target="_blank">git pull</a>
                     </div>
                 </div>
                 <div class="card">
+                    <h3>Grupo Whatsapp</h3>
                     <img src="https://repositorioutlvte.org/Repositorio/fotos/0850099292.jpg" alt="Persona 10">
                     <h3>Nombre 10</h3>
                     <div class="links">
                         <a href="#">Link X</a>
                         <a href="#">Link Y</a>
-                        <a href="#">Link Z</a>
+                        <a href="https://educaysoft.org/2024-2S-B2-1/git_pull.php?dir=whatsapp5b" target="_blank">git pull</a>
                     </div>
                 </div>
                 <div class="card">
+                    <h3>Grupo Whatsapp</h3>
                     <img src="https://repositorioutlvte.org/Repositorio/fotos/1718999079.jpg" alt="Persona 11">
                     <h3>Nombre 11</h3>
                     <div class="links">
                         <a href="#">Página 1</a>
                         <a href="#">Página 2</a>
-                        <a href="#">Página 3</a>
+                        <a href="https://educaysoft.org/2024-2S-B2-1/git_pull.php?dir=whatsapp5b" target="_blank">git pull</a>
                     </div>
                 </div>
                 <div class="card">
+                    <h3>Grupo Whatsapp</h3>
                     <img src="https://repositorioutlvte.org/Repositorio/fotos/0803012145.jpg" alt="Persona 12">
                     <h3>Nombre 12</h3>
                     <div class="links">
@@ -256,12 +260,14 @@
                     </div>
                 </div>
 <div class="card">
+                    <h3>Grupo Whatsapp</h3>
                     <img src="https://repositorioutlvte.org/Repositorio/fotos/0850013418.jpg" alt="Persona 12">
                     <h3>Nombre 12</h3>
                     <div class="links">
                         <a href="#">Sitio #1</a>
                         <a href="#">Sitio #2</a>
                         <a href="#">Sitio #3</a>
+                        <a href="https://educaysoft.org/2024-2S-B2-1/git_pull.php?dir=whatsapp5b" target="_blank">git pull</a>
                     </div>
                 </div>
 
@@ -279,7 +285,7 @@
                     <div class="links">
                         <a href="https://github.com/romario2701/apple6b.git">Cuenta Github</a>
                         <a href="https://educaysoft.org/apple6b/">Depliegue</a>
-                        <a href="#">Enlace Gamma</a>
+                        <a href="https://educaysoft.org/2024-2S-B2-1/git_pull.php?dir=apple6b" target="_blank">git pull</a>
                     </div>
                 </div>
                 <div class="card">
@@ -288,9 +294,9 @@
                     <h3>Añapa Corozo Maroly Mayerli.</h3>
                     <h3> Scrum master.</h3>
                     <div class="links">
-                        <a href="#">Web A</a>
-                        <a href="#">Web B</a>
-                        <a href="#">Web C</a>
+                        <a href="https://github.com/MarolyAnapa20/google6b">Cuenta github</a>
+                        <a href="https://educaysoft.org/google6b">Despliegue</a>
+                        <a href="https://educaysoft.org/2024-2S-B2-1/git_pull.php?dir=google6b" target="_blank">git pull</a>
                     </div>
                 </div>
                 <div class="card">
@@ -299,9 +305,9 @@
                     <h3>Garcia Ordoñez Britanny Dayana.</h3>
                     <h3> Scrum master.</h3>
                     <div class="links">
-                        <a href="#">Uno Uno Uno</a>
-                        <a href="#">Dos Dos Dos</a>
-                        <a href="#">Tres Tres Tres</a>
+                        <a href="https://github.com/Dayana0328/microsoft6b.git">Cuenta Github</a>
+                        <a href="#">https://educaysoft.org/whatsapp6b</a>
+                        <a href="https://educaysoft.org/2024-2S-B2-1/git_pull.php?dir=whatsapp6b" target="_blank">git pull</a>
                     </div>
                 </div>
                 <div class="card">
@@ -310,9 +316,9 @@
                     <h3>Angulo Cedeño Jean Pierre. </h3>
                     <h3> Scrum master.</h3>
                     <div class="links">
-                        <a href="#">Final Uno</a>
-                        <a href="#">Final Dos</a>
-                        <a href="#">Final Tres</a>
+                        <a href="https://github.com/JeanPierreAC/meta6b.git">Cuenta github</a>
+                        <a href="https://educaysoft.org/meta6b">Despliegue</a>
+                        <a href="https://educaysoft.org/2024-2S-B2-1/git_pull.php?dir=meta6b" target="_blank">git pull</a>
                     </div>
                 </div>
             </div>
