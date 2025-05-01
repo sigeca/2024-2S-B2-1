@@ -64,8 +64,8 @@
                     </div>
                 </div>
                 <div class="card">
-                    <img src="https://via.placeholder.com/100/2196F3/FFFFFF?Text=Persona+2" alt="Persona 2">
-                    <h3>Nombre 2</h3>
+                    <img src="https://repositorioutlvte.org/Repositorio/fotos/0850123597.jpg" alt="Persona 2">
+                    <h3>Mera Caicedo Stefany Monserratte </h3>
                     <div class="links">
                         <a href="https://www.otro1.com" target="_blank">Sitio Web A</a>
                         <a href="https://www.otro2.com" target="_blank">Sitio Web B</a>
