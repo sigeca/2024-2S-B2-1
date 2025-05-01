@@ -172,8 +172,9 @@
                     </div>
                 </div>
                 <div class="card">
-                    <img src="https://via.placeholder.com/100/00BCD4/FFFFFF?Text=Persona+6" alt="Persona 6">
-                    <h3>Nombre 6</h3>
+                    <h3>Grupo Microsoft</h3>
+                    <img src="https://repositorioutlvte.org/Repositorio/fotos/0850889916.jpg " alt="Persona 6">
+                    <h3> Bastidas Miranda Eddy Alexis </h3>
                     <div class="links">
                         <a href="#">Link A</a>
                         <a href="#">Link B</a>
