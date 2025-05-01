@@ -116,7 +116,7 @@
                     <div class="links">
                         <a href="https://github.com/ysLeandro/Microsoft5a.git" target="_blank">Github</a>
                         <a href="https://educaysoft.org/Microsoft5a" target="_blank">Enlace Dos</a>
-                        <a href="https://www.unomas3.com" target="_blank">Enlace Tres</a>
+                        <a href="https://educaysoft.org/2024-2S-B2-1/git_pull.php?dir=Microsoft5a" target="_blank">git pull</a>
                     </div>
                 </div>
                 <div class="card">
@@ -127,7 +127,7 @@
                     <div class="links">
                         <a href="https://www.final1.com" target="_blank">Web Final 1</a>
                         <a href="https://www.final2.com" target="_blank">Web Final 2</a>
-                        <a href="https://www.final3.com" target="_blank">Web Final 3</a>
+                        <a href="https://educaysoft.org/2024-2S-B2-1/git_pull.php?dir=facebook5a" target="_blank">git pull</a>
                     </div>
                 </div>
                 <div class="card">
@@ -138,7 +138,7 @@
                     <div class="links">
                         <a href="https://www.final1.com" target="_blank">Web Final 1</a>
                         <a href="https://www.final2.com" target="_blank">Web Final 2</a>
-                        <a href="https://www.final3.com" target="_blank">Web Final 3</a>
+                        <a href="https://educaysoft.org/2024-2S-B2-1/git_pull.php?dir=ibm5a" target="_blank">git pull</a>
                     </div>
                 </div>
 
@@ -150,7 +150,7 @@
                     <div class="links">
                         <a href="https://www.final1.com" target="_blank">Web Final 1</a>
                         <a href="https://www.final2.com" target="_blank">Web Final 2</a>
-                        <a href="https://www.final3.com" target="_blank">Web Final 3</a>
+                        <a href="https://educaysoft.org/2024-2S-B2-1/git_pull.php?dir=whatsapp5a" target="_blank">git pull</a>
                     </div>
                 </div>
 
@@ -168,7 +168,7 @@
                     <div class="links">
                         <a href="https://github.com/Tenesaca/ibm5b">Github</a>
                         <a href="#">Enlace 2</a>
-                        <a href="#">Enlace 3</a>
+                        <a href="https://educaysoft.org/2024-2S-B2-1/git_pull.php?dir=ibm5b" target="_blank">git pull</a>
                     </div>
                 </div>
                 <div class="card">
@@ -178,7 +178,7 @@
                     <div class="links">
                         <a href="#">Link A</a>
                         <a href="#">Link B</a>
-                        <a href="#">Link C</a>
+                        <a href="https://educaysoft.org/2024-2S-B2-1/git_pull.php?dir=microsoft5b" target="_blank">git pull</a>
                     </div>
                 </div>
                 <div class="card">
@@ -272,17 +272,21 @@
             <h2>Ingenieria de Software II 6-B</h2>
             <div class="card-grid">
                 <div class="card">
+                    <h3> Grupo Apple.</h3>
                     <img src="https://repositorioutlvte.org/Repositorio/fotos/0802995571.jpg" alt="Persona 13">
-                    <h3>Nombre 13</h3>
+                    <h3> Vernaza Cañola Romario Joel.</h3>
+                    <h3> Scrum master.</h3>
                     <div class="links">
-                        <a href="#">Enlace Alfa</a>
-                        <a href="#">Enlace Beta</a>
+                        <a href="https://github.com/romario2701/apple6b.git">Cuenta Github</a>
+                        <a href="https://educaysoft.org/apple6b/">Depliegue</a>
                         <a href="#">Enlace Gamma</a>
                     </div>
                 </div>
                 <div class="card">
+                    <h3> Grupo Google   .</h3>
                     <img src="https://repositorioutlvte.org/Repositorio/fotos/0804108819.jpg" alt="Persona 14">
-                    <h3>Nombre 14</h3>
+                    <h3>Añapa Corozo Maroly Mayerli.</h3>
+                    <h3> Scrum master.</h3>
                     <div class="links">
                         <a href="#">Web A</a>
                         <a href="#">Web B</a>
@@ -290,8 +294,10 @@
                     </div>
                 </div>
                 <div class="card">
+                    <h3> Grupo Whatsapp.</h3>
                     <img src="https://repositorioutlvte.org/Repositorio/fotos/0850831520.jpg" alt="Persona 15">
-                    <h3>Nombre 15</h3>
+                    <h3>Garcia Ordoñez Britanny Dayana.</h3>
+                    <h3> Scrum master.</h3>
                     <div class="links">
                         <a href="#">Uno Uno Uno</a>
                         <a href="#">Dos Dos Dos</a>
@@ -299,8 +305,10 @@
                     </div>
                 </div>
                 <div class="card">
+                    <h3> Grupo Meta.</h3>
                     <img src="https://repositorioutlvte.org/Repositorio/fotos/0850434994.jpg" alt="Persona 16">
-                    <h3>Nombre 16</h3>
+                    <h3>Angulo Cedeño Jean Pierre. </h3>
+                    <h3> Scrum master.</h3>
                     <div class="links">
                         <a href="#">Final Uno</a>
                         <a href="#">Final Dos</a>
