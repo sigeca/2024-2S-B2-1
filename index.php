@@ -55,6 +55,7 @@
             <h2>5-A 1</h2>
             <div class="card-grid">
                 <div class="card">
+                    <h3> Grupo Apple</h3>
                     <img src="https://repositorioutlvte.org/Repositorio/fotos/0850219106.jpg" alt=" Quinde Bustos Johan Kenneth">
                     <h3> Quinde Bustos Johan Kenneth</h3>
                     <div class="links">
