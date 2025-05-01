@@ -31,7 +31,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['action']) && $_POST['
   }
 
     echo '<form method="post">';
-    echo '<input type="text" name="direcotrio" value="'. htmlspecialchars($valorRecibido).'">';
+    echo '<input type="text" name="directorio" value="'. htmlspecialchars($valorRecibido).'">';
     echo '<input type="hidden" name="action" value="git_pull">';
     echo '<button type="submit">Ejecutar Git Pull</button>';
     echo '</form>';
