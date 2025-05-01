@@ -58,6 +58,7 @@
                     <h3> Grupo Apple</h3>
                     <img src="https://repositorioutlvte.org/Repositorio/fotos/0850219106.jpg" alt=" Quinde Bustos Johan Kenneth">
                     <h3> Quinde Bustos Johan Kenneth</h3>
+                    <h3> Scrum master</h3>
                     <div class="links">
                         <a href="https://github.com/Jhons23/apple5a.git" target="_blank">Cuenta Github</a>
                         <a href="https://educaysoft.org/apple5a/public/" target="_blank">Despliegue</a>
@@ -68,6 +69,7 @@
                     <h3> Grupo Uber</h3>
                     <img src="https://repositorioutlvte.org/Repositorio/fotos/0850123597.jpg" alt="Persona 2">
                     <h3>Mera Caicedo Stefany Monserratte </h3>
+                    <h3> Scrum master</h3>
                     <div class="links">
                         <a href="https://www.otro1.com" target="_blank">Sitio Web A</a>
                         <a href="https://educaysoft.org/Uber5a/public/" target="_blank">Despliegue</a>
@@ -78,6 +80,7 @@
                     <h3> Grupo Microsoft</h3>
                     <img src="https://repositorioutlvte.org/Repositorio/fotos/0850718974.jpg" alt="Persona 3">
                     <h3>Bautista Caicedo Jorge Leandro.</h3>
+                    <h3> Scrum master</h3>
                     <div class="links">
                         <a href="https://github.com/ysLeandro/Microsoft5a.git" target="_blank">Github</a>
                         <a href="https://educaysoft.org/Microsoft5a" target="_blank">Enlace Dos</a>
