@@ -61,7 +61,7 @@
                     <div class="links">
                         <a href="https://github.com/Jhons23/apple5a.git" target="_blank">Cuenta Github</a>
                         <a href="https://educaysoft.org/apple5a/public/" target="_blank">Despliegue</a>
-                        <a href="https://educaysoft.org/2024-2S-B2-1/git_pull.php" target="_blank">git pull</a>
+                        <a href="https://educaysoft.org/2024-2S-B2-1/git_pull.php?dir=apple5a" target="_blank">git pull</a>
                     </div>
                 </div>
                 <div class="card">
@@ -70,16 +70,17 @@
                     <h3>Mera Caicedo Stefany Monserratte </h3>
                     <div class="links">
                         <a href="https://www.otro1.com" target="_blank">Sitio Web A</a>
-                        <a href="https://www.otro2.com" target="_blank">Sitio Web B</a>
-                        <a href="https://www.otro3.com" target="_blank">Sitio Web C</a>
+                        <a href="https://educaysoft.org/Uber5a/public/" target="_blank">Despliegue</a>
+                        <a href="https://educaysoft.org/2024-2S-B2-1/git_pull.php?dir=Uber5a" target="_blank">git pull</a>
                     </div>
                 </div>
                 <div class="card">
-                    <img src="https://via.placeholder.com/100/4CAF50/FFFFFF?Text=Persona+3" alt="Persona 3">
-                    <h3>Nombre 3</h3>
+                    <h3> Grupo Microsoft</h3>
+                    <img src="https://repositorioutlvte.org/Repositorio/fotos/0850718974.jpg" alt="Persona 3">
+                    <h3>Bautista Caicedo Jorge Leandro.</h3>
                     <div class="links">
-                        <a href="https://www.unomas1.com" target="_blank">Enlace Uno</a>
-                        <a href="https://www.unomas2.com" target="_blank">Enlace Dos</a>
+                        <a href="https://github.com/ysLeandro/Microsoft5a.git" target="_blank">Github</a>
+                        <a href="https://educaysoft.org/Microsoft5a" target="_blank">Enlace Dos</a>
                         <a href="https://www.unomas3.com" target="_blank">Enlace Tres</a>
                     </div>
                 </div>
