@@ -300,14 +300,14 @@
                     </div>
                 </div>
                 <div class="card">
-                    <h3> Grupo Whatsapp.</h3>
+                    <h3> Grupo microsoft.</h3>
                     <img src="https://repositorioutlvte.org/Repositorio/fotos/0850831520.jpg" alt="Persona 15">
                     <h3>Garcia Ordoñez Britanny Dayana.</h3>
                     <h3> Scrum master.</h3>
                     <div class="links">
                         <a href="https://github.com/Dayana0328/microsoft6b.git">Cuenta Github</a>
-                        <a href="#">https://educaysoft.org/whatsapp6b</a>
-                        <a href="https://educaysoft.org/2024-2S-B2-1/git_pull.php?dir=whatsapp6b" target="_blank">git pull</a>
+                        <a href="https://educaysoft.org/microsoft6b">Despliegue</a>
+                        <a href="https://educaysoft.org/2024-2S-B2-1/git_pull.php?dir=microsoft6b" target="_blank">git pull</a>
                     </div>
                 </div>
                 <div class="card">
