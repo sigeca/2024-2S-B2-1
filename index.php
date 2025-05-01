@@ -54,7 +54,7 @@
         <div class="section">
             <h2>5-A 1</h2>
             <div class="card-grid">
-                <div class="card">
+                <div class="card"  style="background-color: #e0f2f7;"  >
                     <h3> Grupo Apple</h3>
                     <img src="https://repositorioutlvte.org/Repositorio/fotos/0850219106.jpg" alt=" Quinde Bustos Johan Kenneth">
                     <h3> Quinde Bustos Johan Kenneth</h3>
@@ -65,6 +65,7 @@
                     </div>
                 </div>
                 <div class="card">
+                    <h3> Grupo Uber</h3>
                     <img src="https://repositorioutlvte.org/Repositorio/fotos/0850123597.jpg" alt="Persona 2">
                     <h3>Mera Caicedo Stefany Monserratte </h3>
                     <div class="links">
