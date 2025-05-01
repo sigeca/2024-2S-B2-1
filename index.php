@@ -203,9 +203,9 @@ Cada miembro del grupo contribuirá al repositorio creando los archivos (modelo,
                     <h3> Bastidas Miranda Eddy Alexis </h3>
                     <h3>Scrum Master</h3>
                     <div class="links">
-                        <a href="#">Link A</a>
-                        <a href="#">Link B</a>
-                        <a href="https://educaysoft.org/2024-2S-B2-1/git_pull.php?dir=microsoft5b" target="_blank">git pull</a>
+                        <a href="https://github.com/Eddy17945/microsoft5b-">Cuenta Github</a>
+                        <a href="https://educaysoft.org/microsoft5b-">Despliegue</a>
+                        <a href="https://educaysoft.org/2024-2S-B2-1/git_pull.php?dir=microsoft5b-" target="_blank">git pull</a>
                     </div>
                 </div>
                 <div class="card">
