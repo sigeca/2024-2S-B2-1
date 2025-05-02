@@ -142,7 +142,7 @@ Cada miembro del grupo contribuirá al repositorio creando los archivos (modelo,
                     <h3> Scrum master</h3>
                     <div class="links">
                         <a href="https://github.com/ysLeandro/Microsoft5a.git" target="_blank">Github</a>
-                        <a href="https://educaysoft.org/Microsoft5a" target="_blank">Enlace Dos</a>
+                        <a href="https://educaysoft.org/Microsoft5a" target="_blank">Despliegue</a>
                         <a href="https://educaysoft.org/2024-2S-B2-1/git_pull.php?dir=Microsoft5a" target="_blank">git pull</a>
                     </div>
                 </div>
@@ -152,8 +152,8 @@ Cada miembro del grupo contribuirá al repositorio creando los archivos (modelo,
                     <h3>Masapanta Delgado Steven Javier.</h3>
                     <h3> Scrum master</h3>
                     <div class="links">
-                        <a href="https://www.final1.com" target="_blank">Web Final 1</a>
-                        <a href="https://www.final2.com" target="_blank">Web Final 2</a>
+                        <a href="https://github.com/FredericVlad/FredericVladRepository.git" target="_blank">Cuenta github</a>
+                        <a href="https://educaysoft.org/FredericVladRepository" target="_blank">Despliegue</a>
                         <a href="https://educaysoft.org/2024-2S-B2-1/git_pull.php?dir=facebook5a" target="_blank">git pull</a>
                     </div>
                 </div>
@@ -163,8 +163,8 @@ Cada miembro del grupo contribuirá al repositorio creando los archivos (modelo,
                     <h3>Lopez Pico Paul Alexander</h3>
                     <h3> Scrum master</h3>
                     <div class="links">
-                        <a href="https://www.final1.com" target="_blank">Web Final 1</a>
-                        <a href="https://www.final2.com" target="_blank">Web Final 2</a>
+                        <a href="https://github.com/Paul18-L/ibm5a" target="_blank">Cuenta Github</a>
+                        <a href="https://educaysoft.org/ibm5a" target="_blank">Despliegue</a>
                         <a href="https://educaysoft.org/2024-2S-B2-1/git_pull.php?dir=ibm5a" target="_blank">git pull</a>
                     </div>
                 </div>
@@ -175,8 +175,8 @@ Cada miembro del grupo contribuirá al repositorio creando los archivos (modelo,
                     <h3> Villota Bustos Juan Sebastian. </h3>
                     <h3> Scrum master</h3>
                     <div class="links">
-                        <a href="https://www.final1.com" target="_blank">Web Final 1</a>
-                        <a href="https://www.final2.com" target="_blank">Web Final 2</a>
+                        <a href="https://github.com/ElingeStiven/WhatsApp-.git" target="_blank">Cuenta Github</a>
+                        <a href="https://educaysoft.org/WhatsApp-" target="_blank">Despliegue</a>
                         <a href="https://educaysoft.org/2024-2S-B2-1/git_pull.php?dir=whatsapp5a" target="_blank">git pull</a>
                     </div>
                 </div>
