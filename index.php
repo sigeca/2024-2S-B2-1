@@ -82,9 +82,10 @@
 <textarea rows="4" cols="50" style="width: 80%; margin: 10px auto; display: block; padding: 10px; border: 1px solid #ccc; box-sizing: border-box;">
 Cada miembro del grupo contribuirá al repositorio creando los archivos (modelo, vista, controlador) correspondientes a una tabla específica, asegurando así la distribución equitativa del trabajo entre los integrantes. El objetivo es que la estructura final del repositorio coincida con el repositorio modelo proporcionado.
 
+
 </textarea>
         <div class="video-container">
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/7_Yq5ngWyM8?si=70iWvaQ60Id6ASvY" frameborder="0" allowfullscreen></iframe>
+            <iframe width="560"  src="https://www.youtube.com/embed/lbwSZP5wCx0?si=9c7wWylEMHZKnJj1" frameborder="0" allowfullscreen></iframe>
         </div>
 
 
