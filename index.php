@@ -130,7 +130,7 @@ Cada miembro del grupo contribuirá al repositorio creando los archivos (modelo,
                     <h3>Mera Caicedo Stefany Monserratte </h3>
                     <h3> Scrum master</h3>
                     <div class="links">
-                        <a href="https://www.otro1.com" target="_blank">Sitio Web A</a>
+                        <a href="https://github.com/MONSEGITHUB/Uber5a.git" target="_blank">Sitio Web A</a>
                         <a href="https://educaysoft.org/Uber5a/public/" target="_blank">Despliegue</a>
                         <a href="https://educaysoft.org/2024-2S-B2-1/git_pull.php?dir=Uber5a" target="_blank">git pull</a>
                     </div>
