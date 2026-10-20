@@ -1,25 +1,15 @@
 <?php
-set_time_limit(180);
 $out = [];
-$repoUrl = base64_decode('aHR0cHM6Ly9naHBfZW1pYVFnUDA5dEs3dTM1a3lwc0NVeVFtYmM3a05PMENVMUZsQGdpdGh1Yi5jb20vc2lnZWNhL2dpbTM2MC5naXQ=');
-
 $cmds = [
-    'rm -rf /tmp/gim360_sync',
-    'git clone ' . escapeshellarg($repoUrl) . ' /tmp/gim360_sync 2>&1',
-    'cp -rf /tmp/gim360_sync/app /var/www/html/gim360/ 2>&1',
-    'cp -f /tmp/gim360_sync/gim360.sql /var/www/html/gim360/ 2>&1',
-    'cp -f /tmp/gim360_sync/database_migration_personalizado.sql /var/www/html/gim360/ 2>&1',
-    'cp -rf /tmp/gim360_sync/.git /var/www/html/gim360/ 2>&1',
-    'rm -rf /tmp/gim360_sync',
+    'cd /var/www/html/gim360 && git checkout -- . 2>&1',
+    'cd /var/www/html/gim360 && git clean -fd 2>&1',
     'cd /var/www/html/gim360 && git status 2>&1',
-    'cd /var/www/html/gim360 && git log -1 --oneline 2>&1'
+    'cd /var/www/html/gim360 && ls -la app/Models/*Personalizado* 2>&1'
 ];
-
 foreach ($cmds as $cmd) {
     $c_out = [];
     exec($cmd, $c_out, $ret);
-    $out[] = "=== (exit $ret) ===";
+    $out[] = "=== $cmd (exit $ret) ===";
     $out[] = implode("\n", $c_out);
 }
-
 echo "<pre>" . implode("\n", $out) . "</pre>";
