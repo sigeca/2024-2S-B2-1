@@ -1,10 +1,10 @@
 <?php
 $out = [];
 $cmds = [
-    'cd /var/www/html/gim360 && git checkout -- . 2>&1',
-    'cd /var/www/html/gim360 && git clean -fd 2>&1',
-    'cd /var/www/html/gim360 && git status 2>&1',
-    'cd /var/www/html/gim360 && ls -la app/Models/*Personalizado* 2>&1'
+    'ls -la /var/www/html/gim360/app/Models/*Personalizada* 2>&1',
+    'grep -n "planejerciciopersonalizado" /var/www/html/gim360/app/Controllers/Api/GimApiController.php 2>&1',
+    'grep -n "clonarProgramaModeloACliente" /var/www/html/gim360/app/Models/ProgramaClienteModel.php 2>&1',
+    'ls -l /var/www/html/gim360/app/Views/programacliente/programacliente_record.php 2>&1'
 ];
 foreach ($cmds as $cmd) {
     $c_out = [];
