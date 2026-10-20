@@ -1,8 +1,8 @@
 <?php
 $out = [];
 $cmds = [
-    'grep -n "idprogramapersonalizado" /var/www/html/gim360/app/Controllers/Api/GimApiController.php 2>&1',
-    'grep -n "clonarProgramaModeloACliente" /var/www/html/gim360/app/Controllers/ProgramaCliente.php 2>&1'
+    'ls -l /var/www/html/gim360/app/Views/layout/main.php 2>&1',
+    'ls -ld /var/www/html/gim360/app/Views/layout 2>&1'
 ];
 foreach ($cmds as $cmd) {
     $c_out = [];
